@@ -1,5 +1,5 @@
 {
-  "name": "jverification-react-native",
+  "name": "jver-react-native-test",
   "description": "React Native JVerification component for Android and iOS",
   "homepage":"https://github.com/jpush/jverification-react-native",
   "main": "index.js",
